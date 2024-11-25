@@ -1,17 +1,17 @@
-# Hi, I'm Ajay! 👋
+# Hi, I'm JoyBoy! ,Nooo.... I'm Ajay 👋
 
 Welcome to my profile! I'm a passionate developer who loves learning new technologies. Here's a quick overview of who I am:
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26gsvQq62rOC4vxO8/giphy.gif" width="300" alt="animated banner" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JwbTlibWIwNGg4OWV1dGZjcXoxcGdyZGh1ZmM5eHk1ZzdmN3E1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.webp" width="300" alt="animated banner" />
   <p>Welcome to my GitHub profile!</p>
 </div>
 
 - 🔭 I’m currently working on my personal projects.
 - 🌱 I’m learning React, Node.js, and AI technologies.
 - 💬 Ask me about JavaScript, MERN Stack, and web development.
-- 📫 How to reach me: [ajay@example.com](mailto:ajay@example.com)
-- ⚡ Fun fact: I love playing chess ♟️ and solving puzzles.
+- 📫 How to reach me: [ajaysinghkunwar1999@gmail.com](mailto:ajaysinghkunwar1999@gmail.com)
+- ⚡ Fun fact: I love playing chess ♟️ and solving puzzles( that's not true , I hate them ).
 
 ## Skills and Tools
 
@@ -30,12 +30,13 @@ Welcome to my profile! I'm a passionate developer who loves learning new technol
 
 ## Animated Greetings
 
-<marquee behavior="scroll" direction="left">💻 I'm coding every day! 🚀</marquee>
+<marquee behavior="scroll" direction="left">💻 I'm into coding every day! 🚀</marquee>
 
 ## Social Links
 
-- [LinkedIn](https://www.linkedin.com/in/ajaysingh)
-- [Twitter](https://twitter.com/ajaysingh)
+- [LinkedIn](https://www.linkedin.com/in/ajay-singh-kunwar-854524239/)
+- [Twitter](https://x.com/Ajaykunwar_007)
+- [Portfolio](https://ajayportfolio.freewebhostmost.com/)
 
 ---
 
