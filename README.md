@@ -1,6 +1,6 @@
 # Hi, I'm JoyBoy! ,Nooo.... I'm Ajay 👋
 
-Welcome to my profile! I'm a passionate developer who loves learning new technologies. Here's a quick overview of who I am:
+Welcome to my profile! I'm a passionate developer who loves learning new technologies(fast !!! like the guy below⬇️⬇️⬇️⬇️ 😉😁). Here's a quick overview of who I am:
 <div align="center">
   <img src="https://media.giphy.com/media/3NtY188QaxDdC/giphy.gif" alt="Funny GIF">
 </div>
