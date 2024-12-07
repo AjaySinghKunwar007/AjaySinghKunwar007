@@ -13,6 +13,14 @@ Welcome to my profile! I'm a passionate developer who loves learning new technol
 - 📫 How to reach me: [ajaysinghkunwar1999@gmail.com](mailto:ajaysinghkunwar1999@gmail.com)
 - ⚡ Fun fact: I love playing chess ♟️ and solving puzzles( that's not true , I hate them ).
 
+## 🌟 Featured Projects
+- [🚀 OrbitInk](https://orbit-ink-ajays-projects-37278e66.vercel.app/): A blogging platform for sharing ideas.
+- [💰 CryptoX](https://react-crypto-app-swart-six.vercel.app/coin/bitcoin): Real-time cryptocurrency data dashboard.
+- [🎨 Lazarev Agency](https://lazarev-ashen-nine.vercel.app): A design and animation studio website.
+
+Explore these projects to see what I’ve been working on! ✨
+
+
 ## Skills and Tools
 
 <div align="center">
