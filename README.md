@@ -3,6 +3,7 @@
 Welcome to my profile! I'm a passionate developer who loves learning new technologies(fast !!! like the guy below⬇️⬇️⬇️⬇️ 😉😁). 
 <div align="center">
   <img src="https://media.giphy.com/media/3NtY188QaxDdC/giphy.gif" alt="Funny GIF">
+  [![](https://visitcount.itsvg.in/api?id=ajay&label=Profile%20Views&color=11&icon=0&pretty=false)](https://visitcount.itsvg.in)
 </div>
 
 Here's a quick overview of who I am:
