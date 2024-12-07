@@ -21,10 +21,10 @@ Here's a quick overview of who I am:
 
 ## 🌟 Featured Projects
 
-- <a href="https://orbit-ink-ajays-projects-37278e66.vercel.app/" target="_blank">🚀 OrbitInk</a>: A blogging platform for sharing ideas.
-- <a href="https://ajayportfolio.freewebhostmost.com/" target="_blank">💻 Ajay's Portfolio</a>: A personal portfolio showcasing my skills, projects, and achievements.
-- <a href="https://react-crypto-app-swart-six.vercel.app/coin/bitcoin" target="_blank">💰 CryptoX</a>: Real-time cryptocurrency data dashboard.
-- <a href="https://lazarev-ashen-nine.vercel.app" target="_blank">🎨 Lazarev Agency</a>: A design and animation studio website.
+- [🚀 OrbitInk](https://orbit-ink-ajays-projects-37278e66.vercel.app/): A blogging platform for sharing ideas.
+- [💻 Ajay's Portfolio](https://ajayportfolio.freewebhostmost.com/): A personal portfolio showcasing my skills, projects, and achievements.
+- [💰 CryptoX](https://react-crypto-app-swart-six.vercel.app/coin/bitcoin): Real-time cryptocurrency data dashboard.
+- [🎨 Lazarev Agency](https://lazarev-ashen-nine.vercel.app): A design and animation studio website.
 
 Explore these projects to see what I’ve been working on! ✨
 
