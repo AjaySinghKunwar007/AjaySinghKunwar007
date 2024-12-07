@@ -1,9 +1,11 @@
 # Hi, I'm JoyBoy! ,Nooo.... I'm Ajay 👋
 
-Welcome to my profile! I'm a passionate developer who loves learning new technologies(fast !!! like the guy below⬇️⬇️⬇️⬇️ 😉😁). Here's a quick overview of who I am:
+Welcome to my profile! I'm a passionate developer who loves learning new technologies(fast !!! like the guy below⬇️⬇️⬇️⬇️ 😉😁). 
 <div align="center">
   <img src="https://media.giphy.com/media/3NtY188QaxDdC/giphy.gif" alt="Funny GIF">
 </div>
+
+Here's a quick overview of who I am:
 - 🔭 I’m currently working on my personal projects.
 - 🌱 I’m learning React, Node.js, and AI technologies.
 - 💬 Ask me about JavaScript, MERN Stack, and web development.
