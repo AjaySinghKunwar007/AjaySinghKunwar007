@@ -5,6 +5,9 @@ Welcome to my profile! I'm a passionate developer who loves learning new technol
   <img src="https://media.giphy.com/media/3NtY188QaxDdC/giphy.gif" alt="Funny GIF">
   
 </div>
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=AjaySinghKunwar007&label=Profile%20Views&color=11&icon=0&pretty=false" alt="Profile Views">
+</div>
 [![profile views](https://visitcount.itsvg.in/api?id=AjaySinghKunwar007&label=Profile%20Views&color=11&icon=0&pretty=false)](https://visitcount.itsvg.in)
 ![Profile Views](https://komarev.com/ghpvc/?username=AjaySinghKunwar007&color=blue)
 
