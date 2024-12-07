@@ -1,8 +1,8 @@
 # Hi, I'm JoyBoy! ,Nooo.... I'm Ajay 👋
 
 Welcome to my profile! I'm a passionate developer who loves learning new technologies. Here's a quick overview of who I am:
-<img src="https://giphy.com/embed/3NtY188QaxDdC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed">
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/3NtY188QaxDdC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/3NtY188QaxDdC">via GIPHY</a></p>
+
+![Funny GIF](https://media.giphy.com/media/3NtY188QaxDdC/giphy.gif)
 
 - 🔭 I’m currently working on my personal projects.
 - 🌱 I’m learning React, Node.js, and AI technologies.
