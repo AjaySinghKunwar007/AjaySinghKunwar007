@@ -2,10 +2,7 @@
 
 Welcome to my profile! I'm a passionate developer who loves learning new technologies. Here's a quick overview of who I am:
 
-<div align="center">
-  <iframe src="https://giphy.com/embed/3NtY188QaxDdC" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3NtY188QaxDdC">via GIPHY</a></p>
-  <p>Welcome to my GitHub profile!</p>
-</div>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/3NtY188QaxDdC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/3NtY188QaxDdC">via GIPHY</a></p>
 
 - 🔭 I’m currently working on my personal projects.
 - 🌱 I’m learning React, Node.js, and AI technologies.
