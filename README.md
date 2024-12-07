@@ -8,8 +8,7 @@ Welcome to my profile! I'm a passionate developer who loves learning new technol
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=AjaySinghKunwar007&label=Profile%20Views&color=11&icon=0&pretty=false" alt="Profile Views">
 </div>
-[![profile views](https://visitcount.itsvg.in/api?id=AjaySinghKunwar007&label=Profile%20Views&color=11&icon=0&pretty=false)](https://visitcount.itsvg.in)
-![Profile Views](https://komarev.com/ghpvc/?username=AjaySinghKunwar007&color=blue)
+
 
 Here's a quick overview of who I am:
 - 🔭 I’m currently working on my personal projects.
