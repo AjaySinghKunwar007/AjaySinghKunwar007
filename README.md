@@ -3,7 +3,7 @@
 Welcome to my profile! I'm a passionate developer who loves learning new technologies. Here's a quick overview of who I am:
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JwbTlibWIwNGg4OWV1dGZjcXoxcGdyZGh1ZmM5eHk1ZzdmN3E1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.webp" width="300" alt="animated banner" />
+  <iframe src="https://giphy.com/embed/3NtY188QaxDdC" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3NtY188QaxDdC">via GIPHY</a></p>
   <p>Welcome to my GitHub profile!</p>
 </div>
 
