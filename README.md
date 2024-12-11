@@ -1,4 +1,4 @@
-# Hi, I'm JoyBoy! (Nooo.... I'm Ajay) 👋
+# Hi,  I'm Ajay  👋
 
 Welcome to my profile! I'm a passionate developer who loves learning new technologies (fast!!! like the guy below⬇️⬇️⬇️⬇️ 😉😁). 
 
